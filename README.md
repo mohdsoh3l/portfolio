@@ -47,7 +47,7 @@ Welcome to my personal **Portfolio Website**, built using **HTML, CSS, JavaScrip
 
 **Mohd Sohel**  
 📧 Email: [zaiduroy@gmail.com](mailto:zaiduroy@gmail.com)  
-🌐 GitHub: [mohdsohel-07](https://github.com/mohdso3l)
+🌐 GitHub: [mohdsoh3l](https://github.com/mohdso3l)
 
 ---
 
@@ -55,4 +55,4 @@ Welcome to my personal **Portfolio Website**, built using **HTML, CSS, JavaScrip
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/mohdsohel-07/portfolio-website.git
+   git clone https://github.com/mohdsoh3l/portfolio-website.git
