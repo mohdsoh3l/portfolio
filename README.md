@@ -35,11 +35,11 @@ Welcome to my personal **Portfolio Website**, built using **HTML, CSS, JavaScrip
 
 | Project               | Live Demo | GitHub Repo |
 |-----------------------|-----------|-------------|
-| ✅ Weather forecast    | [Live](https://mohdsohel-07.github.io/weather-forecast/) | [Repo](https://github.com/mohdsohel-07/weather-forecast) |
-| ✅ Tic Tac Toe Game    | [Live](https://mohdsohel-07.github.io/Tic-Tac-Toe-Game/) | [Repo](https://github.com/mohdsohel-07/Tic-Tac-Toe-Game) |
-| ✅ Rock Paper Scissors | [Live](https://mohdsohel-07.github.io/Rock-Paper-Scissors/) | [Repo](https://github.com/mohdsohel-07/Rock-Paper-Scissors) |
-| ✅ Currency converter  | [Live](https://mohdsohel-07.github.io/currency-converter/) | [Repo](https://github.com/mohdsohel-07/currency-converter) |
-| ✅ To-Do List App      | [Live](https://mohdsohel-07.github.io/To-Dos/) | [Repo](https://github.com/mohdsohel-07/To-Dos) |
+| ✅ Weather forecast    | [Live](https://mohdsoh3l.github.io/weather-forecast/) | [Repo](https://github.com/mohdsoh3l/weather-forecast) |
+| ✅ Tic Tac Toe Game    | [Live](https://mohdsoh3l.github.io/Tic-Tac-Toe-Game/) | [Repo](https://github.com/mohdsoh3l/Tic-Tac-Toe-Game) |
+| ✅ Rock Paper Scissors | [Live](https://mohdsoh3l.github.io/Rock-Paper-Scissors/) | [Repo](https://github.com/mohdsoh3l/Rock-Paper-Scissors) |
+| ✅ Currency converter  | [Live](https://mohdsoh3l.github.io/currency-converter/) | [Repo](https://github.com/mohdsoh3l/currency-converter) |
+| ✅ To-Do List App      | [Live](https://mohdsoh3l.github.io/To-Dos/) | [Repo](https://github.com/mohdsoh3l/To-Dos) |
 
 ---
 
@@ -47,7 +47,7 @@ Welcome to my personal **Portfolio Website**, built using **HTML, CSS, JavaScrip
 
 **Mohd Sohel**  
 📧 Email: [zaiduroy@gmail.com](mailto:zaiduroy@gmail.com)  
-🌐 GitHub: [mohdsohel-07](https://github.com/mohdsohel-07)
+🌐 GitHub: [mohdsohel-07](https://github.com/mohdso3l)
 
 ---
 
